@@ -11,9 +11,9 @@ Although some of his fellow economists pinpointed several drawbacks to his theor
 
 **2-**	The Markowitz model uses the variance as a statistical indicator of volatility (since it measures the dispersion around the mean). But what if we use the realized volatility instead? In fact, it has many benefits: it is a more realistic measure of the dispersion, it is an unbiased estimator and ex-post measure of volatility.
 
-![](readme-images/yield_formula.PNG)
+![](readme-images/risk_formula.PNG)
 
 **3-**	To measure the yield, we will use its expected value represented by the mean of the possible yields in the period of study (from 1997 to 2022). As a portfolio is sized according to the weights of each asset, its yield is obtained from a weighted average of the assets yield with respect to their size in the portfolio. 
 
-![](readme-images/risk_formula.PNG)
+![](readme-images/yield_formula.PNG)
 
